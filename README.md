@@ -1,2 +1,2 @@
 # portent
-first
+portfolio optimization on sharpe, gmv, utility
